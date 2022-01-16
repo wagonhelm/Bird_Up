@@ -14,7 +14,7 @@
 
 ## 📑 Summary
 ## Inspiration
-People eat alot of eggs, according to https://www.statista.com/statistics/183678/per-capita-consumption-of-eggs-in-the-us-since-2000/, in 2019, consumption of eggs in the United States was estimated at 293.6 per person. Thus on average a person spends about 411$ per year [(as the average price was 1.4$ in 2019] (https://www.statista.com/statistics/183678/per-capita-consumption-of-eggs-in-the-us-since-2000/) ,and due to inflation many may choose to raise their own chickens. However, that requires committment, we aim to help automate this process.
+People eat alot of eggs, in fact according to [statistics](https://www.statista.com/statistics/183678/per-capita-consumption-of-eggs-in-the-us-since-2000/) in 2019, consumption of eggs in the United States was estimated at 293.6 per person. Thus on average a person spends about 411$ per year [(as the average price was 1.4$ in 2019)] (https://www.statista.com/statistics/183678/per-capita-consumption-of-eggs-in-the-us-since-2000/) ,and due to inflation many may choose to raise their own chickens. However, that requires committment, we aim to help automate this process.
 
 ## What it does
 
