@@ -1,5 +1,5 @@
 name: henbot_stack
-root: ~/workspace
+root: ~/Bird_Up/workspace
 
 startup_window: main
 
@@ -13,6 +13,7 @@ windows:
       pre: sleep 5
       panes:
       - rosrun jetbot_ros jetbot_camera
+      - rosrun vision camera.py
 
         
 

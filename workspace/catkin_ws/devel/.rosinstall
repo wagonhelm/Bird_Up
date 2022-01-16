@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jetson/Bird_Up/workspace/catkin_ws/devel/setup.sh

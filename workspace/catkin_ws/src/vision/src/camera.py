@@ -30,8 +30,8 @@ class image_converter:
     if cols > 60 and rows > 60 :
       cv2.circle(cv_image, (50,50), 10, 255)
 
-    cv2.imshow("Image window", cv_image)
-    cv2.waitKey(3)
+    #cv2.imshow("Image window", cv_image)
+    #cv2.waitKey(3)
 
 	# Put your object detection code here Akrash
 
@@ -41,8 +41,8 @@ class image_converter:
       print(e)
 
 def main(args):
-  ic = image_converter()
   rospy.init_node('image_converter', anonymous=True)
+  ic = image_converter()
   try:
     rospy.spin()
   except KeyboardInterrupt:
