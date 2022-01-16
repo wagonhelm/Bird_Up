@@ -19,6 +19,15 @@ People eat alot of eggs, in fact according to [statistics](https://www.statista.
 
 ## What it does
 
+### Automatic light sensor door
+No longer do you have to get up early in the mornings, or panic when you are away from home and you forgot to lock your chickens up for the night.  The automatic light sensor detects when the sun goes up and down ensuring your birds sleep sound.
+
+https://youtu.be/-Oy08sSHBTI
+
+### Remote viewing of chickens
+You can remotely connect to your chicken coop and move the camera as you need making sure all your lovely ladies are doing fine.
+
+https://youtu.be/259Wf4aDriA
 
 ## How we built it
 
@@ -36,8 +45,6 @@ We learnt how to use OpenCV and CUDA it was a steep learning curve as we were no
 ## What's next for Bird_Up!
 We are planning on adding more predator and hazards classes to our model to make the system more robust.
 
-
-## Watch it in action: https://www.youtube.com/watch?v=-Oy08sSHBTI
 
 
 ## 🔨 Tools
