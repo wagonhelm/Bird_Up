@@ -68,8 +68,8 @@ We are planning on adding more predator and hazards classes to our model to make
 <!--- put your links here --->
 
 * [Faiyaz Ahmed](https://github.com/Faiyaz42)
-* [Justin Francis]
-* [Akrash Sharma]
+* [Justin Francis](https://github.com/wagonhelm)
+* [Akrash Sharma](https://github.com/Akarsh654/)
 
 
 [🔝 Back to Top](#top)
