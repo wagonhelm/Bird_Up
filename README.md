@@ -37,10 +37,7 @@ We learnt how to use OpenCV and CUDA it was a steep learning curve as we were no
 We are planning on adding more predator and hazards classes to our model to make the system more robust.
 
 
-## 💻 Screenshots
-
-
-
+## Watch it in action: https://www.youtube.com/watch?v=-Oy08sSHBTI
 
 
 ## 🔨 Tools
@@ -52,7 +49,12 @@ We are planning on adding more predator and hazards classes to our model to make
 
 
 ### Hardware
-
+* Jetson nano
+* Arduino
+* 3 Servos
+* 1 photoresistor
+* Raspberry Pi camera
+* Analog joystick
 
 
 
