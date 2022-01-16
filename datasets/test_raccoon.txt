@@ -1,0 +1,80 @@
+raccoon-168.jpg 98 88 374 303 0 173 1 471 309 0
+raccoon-143.jpg 17 29 238 162 0
+raccoon-128.jpg 76 87 190 148 0
+raccoon-75.jpg 1 1 640 459 0
+raccoon-57.jpg 82 6 638 423 0
+raccoon-98.jpg 108 31 351 308 0
+raccoon-105.jpg 250 49 714 869 0
+raccoon-176.jpg 308 90 611 426 0 103 1 314 189 0
+raccoon-56.jpg 20 6 224 201 0
+raccoon-58.jpg 2 1 199 221 0
+raccoon-99.jpg 15 40 132 226 0
+raccoon-108.jpg 99 53 402 464 0
+raccoon-182.jpg 17 122 279 499 0
+raccoon-144.jpg 117 42 387 390 0
+raccoon-34.jpg 1 2 227 194 0
+raccoon-191.jpg 100 89 478 331 0
+raccoon-177.jpg 8 18 157 178 0 146 13 263 146 0
+raccoon-87.jpg 1 3 206 191 0
+raccoon-48.jpg 43 28 240 176 0
+raccoon-109.jpg 9 1 177 252 0
+raccoon-185.jpg 25 1 200 181 0
+raccoon-65.jpg 123 27 338 284 0
+raccoon-184.jpg 81 77 567 617 0
+raccoon-126.jpg 5 5 246 192 0
+raccoon-55.jpg 6 49 250 320 0 274 27 563 410 0
+raccoon-53.jpg 71 45 197 171 0
+raccoon-50.jpg 36 2 174 172 0
+raccoon-124.jpg 17 39 239 147 0
+raccoon-123.jpg 280 42 550 392 0
+raccoon-80.jpg 21 27 177 182 0
+raccoon-151.jpg 42 94 108 224 0
+raccoon-43.jpg 1 65 239 316 0
+raccoon-194.jpg 1 63 885 1042 0
+raccoon-116.jpg 3 1 436 430 0
+raccoon-86.jpg 129 34 475 401 0
+raccoon-104.jpg 189 41 340 249 0
+raccoon-22.jpg 252 76 466 335 0
+raccoon-24.jpg 77 48 179 156 0 139 77 202 145 0
+raccoon-180.jpg 119 21 368 399 0
+raccoon-73.jpg 56 16 274 166 0
+raccoon-154.jpg 148 56 517 346 0
+raccoon-186.jpg 34 40 536 387 0
+raccoon-183.jpg 358 21 1354 1119 0
+raccoon-101.jpg 86 53 400 356 0
+raccoon-187.jpg 161 112 292 276 0
+raccoon-19.jpg 87 8 182 89 0
+raccoon-91.jpg 22 14 216 308 0
+raccoon-127.jpg 125 59 212 165 0
+raccoon-54.jpg 78 5 517 333 0
+raccoon-27.jpg 14 38 592 373 0
+raccoon-81.jpg 4 54 574 410 0
+raccoon-2.jpg 60 51 462 499 0
+raccoon-70.jpg 60 4 421 369 0
+raccoon-77.jpg 161 1 627 330 0
+raccoon-71.jpg 129 51 628 373 0
+raccoon-198.jpg 57 21 158 184 0 112 32 199 158 0
+raccoon-169.jpg 194 1 549 409 0
+raccoon-171.jpg 108 21 180 115 0
+raccoon-18.jpg 32 25 201 130 0
+raccoon-200.jpg 107 10 249 166 0
+raccoon-83.jpg 104 3 509 369 0
+raccoon-152.jpg 41 60 223 155 0
+raccoon-94.jpg 155 10 543 445 0
+raccoon-155.jpg 46 91 143 169 0
+raccoon-118.jpg 109 31 307 297 0
+raccoon-190.jpg 78 54 153 135 0
+raccoon-106.jpg 31 21 226 146 0
+raccoon-137.jpg 71 8 304 233 0
+raccoon-178.jpg 59 12 242 180 0
+raccoon-42.jpg 121 206 410 767 0
+raccoon-30.jpg 78 25 182 177 0
+raccoon-134.jpg 125 87 194 169 0
+raccoon-25.jpg 31 82 325 641 0
+raccoon-149.jpg 132 50 305 246 0
+raccoon-72.jpg 219 195 446 375 0 98 34 284 336 0
+raccoon-84.jpg 31 6 197 163 0
+raccoon-193.jpg 23 215 440 831 0
+raccoon-103.jpg 92 54 460 545 0
+raccoon-192.jpg 127 160 298 289 0
+raccoon-67.jpg 18 17 224 168 0
