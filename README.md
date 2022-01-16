@@ -25,15 +25,23 @@ No longer do you have to get up early in the mornings, or panic when you are awa
 https://youtu.be/-Oy08sSHBTI
 
 ### Remote viewing of chickens
-You can remotely connect to your chicken coop and move the camera as you need making sure all your lovely ladies are doing fine.
+You can remotely connect to your chicken coop and move the camera as you need to make sure all your lovely ladies are doing fine.
 
 https://youtu.be/259Wf4aDriA
 
+### Predator Detection
+Chickens are often prone to predators but using machine learning we can detect exactly where a predator is and fire our patented predator cannon to keep predators away.
+
+https://youtu.be/r203pE_IT9w 
+
 ## How we built it
+We built a basic structure prototype using Lego Mindstorms and electrical tape to hold things together.  
+To power our vision processing we used a Jetson Nano which has enough built-in computer power to stream our raspberry pi camera and process an object detection model in real-time.  
+For controlling motors and sensors we used an Arduino Nano.  For the camera mount, we have two servos controlled manually using a joystick or can be controlled automatically moving towards predators using the GPIO output from the Jetson Nano (currently in development).  The automatic door uses a photoresistor and a servo to open the pen when the sun comes up and closes it when the sun goes down.
 
 ## Challenges we ran into
-We weren't able to interact with the hardware equipment in person which led to real limitations. We tackled this by using an SSH server to connect to the jetson nano and this allowed us to access the camera to test the object detection model. Furthermore we remotely collaborated on the arduino code.     
-Quick communication was also one of the challenges as we had to reboot the server a couple of times so we were always active on discord and ensured we rebooted the server when no-one was in the midst of coding.  
+We weren't able to interact with the hardware equipment in person which led to real limitations. We tackled this by using an SSH server to connect to the jetson nano and this allowed us to access the camera to test the object detection model. Furthermore, we remotely collaborated on the Arduino code.
+Quick communication was also one of the challenges as we had to reboot the server a couple of times so we were always active on discord and ensured we rebooted the server when no one was in the midst of coding.
 
 ## Accomplishments that we're proud of
 This was a hardware project in a fully online setting so we are really proud of being able to procure the parts needed and assemble them in quick time as well as incorporating, testing and debugging the object detection model.
@@ -43,7 +51,7 @@ We learnt how to use OpenCV and CUDA it was a steep learning curve as we were no
 
 
 ## What's next for Bird_Up!
-We are planning on adding more predator and hazards classes to our model to make the system more robust.
+We are planning on adding more predator and hazards classes to our model to make the system more robust.  Additional features as heat control and egg detection would also be useful!
 
 
 
