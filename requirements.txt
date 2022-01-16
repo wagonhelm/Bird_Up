@@ -1,11 +1,12 @@
-keras
+# pip install -r requirements.txt
 pandas
-keras.preprocessing
 numpy
-tensorflow
 opencv-python
+rospy
 roslib
+matplotlib
 cv2
+nanocamera
 cv_bridge
 sensor_msgs.msg
 std_msgs.msg
