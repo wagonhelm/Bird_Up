@@ -12,7 +12,7 @@
 
 <!--- See our devpost [here](https://devpost.com/software/reboot-0eyc7p): [devpost.com/software/reboot-0eyc7p](https://devpost.com/software/reboot-0eyc7p) --->
 
-## 📑 Summary
+## 📑 Project Details
 
 ## Inspiration
 People eat a lot of eggs, in fact, according to [statistics](https://www.statista.com/statistics/183678/per-capita-consumption-of-eggs-in-the-us-since-2000/) in 2019, consumption of eggs in the United States was estimated at 293.6$ per person. Thus on average, a person spends about 411$ per year on eggs as the [average price](https://www.statista.com/statistics/183678/per-capita-consumption-of-eggs-in-the-us-since-2000/) was 1.4$ in 2019.   
