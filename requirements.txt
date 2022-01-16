@@ -1,0 +1,11 @@
+keras
+pandas
+keras.preprocessing
+numpy
+tensorflow
+opencv-python
+roslib
+cv2
+cv_bridge
+sensor_msgs.msg
+std_msgs.msg
