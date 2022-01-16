@@ -25,11 +25,5 @@ python3 detect.py config-raccoon.py datasets/raccoon/raccoon-10.jpg
 - Darknet21 (WIP)
 - NASNetAMobile
 
-## TODO:
-- Training visualization using TensorboardX
-- MAP evaluation
-- User friendly documents
-- More backbone networks
-- CPU only Inference
-
-# Credits: https://github.com/sapjunior/objdetection-pytorch
+## To Do:
+Need to add train and add the weights to our main YOLO model
