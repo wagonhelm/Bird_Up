@@ -36,7 +36,7 @@ Chickens are often prone to predators but using machine learning we can detect e
 
 https://youtu.be/r203pE_IT9w 
 
-[Arduino](https://github.com/wagonhelm/Bird_Up/blob/main/arduino.png)   
+![Arduino](https://github.com/wagonhelm/Bird_Up/blob/main/arduino.png)   
 
 ## How we built it
 We built a basic structure prototype using Lego Mindstorms and electrical tape to hold things together.  
