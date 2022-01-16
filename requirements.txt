@@ -1,0 +1,12 @@
+# pip install -r requirements.txt
+pandas
+numpy
+opencv-python
+rospy
+roslib
+matplotlib
+cv2
+nanocamera
+cv_bridge
+sensor_msgs.msg
+std_msgs.msg
