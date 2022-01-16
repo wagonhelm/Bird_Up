@@ -36,12 +36,14 @@ Chickens are often prone to predators but using machine learning we can detect e
 
 https://youtu.be/r203pE_IT9w 
 
-![Arduino](https://github.com/wagonhelm/Bird_Up/blob/main/arduino.png)   
+  
 
 ## How we built it
 We built a basic structure prototype using Lego Mindstorms and electrical tape to hold things together.  
 To power our vision processing we used a Jetson Nano which has enough built-in computer power to stream our raspberry pi camera and process an object detection model in real-time.  
 For controlling motors and sensors we used an Arduino Nano.  For the camera mount, we have two servos controlled manually using a joystick or can be controlled automatically moving towards predators using the GPIO output from the Jetson Nano (currently in development).  The automatic door uses a photoresistor and a servo to open the pen when the sun comes up and closes it when the sun goes down.
+
+![Arduino](https://github.com/wagonhelm/Bird_Up/blob/main/arduino.png) 
 
 ## Challenges we ran into
 We weren't able to interact with the hardware equipment in person which led to real limitations. We tackled this by using an SSH server to connect to the jetson nano and this allowed us to access the camera to test the object detection model. Furthermore, we remotely collaborated on the Arduino code.
