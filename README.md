@@ -22,7 +22,7 @@
 ## How we built it
 
 ## Challenges we ran into
-We weren't able to interact with the hardware equipment in person which led to real limitations. We tackled this by using an SSH server to connect to the jetson nano and this allowed us to access the camera to test the object detection model. Furthermore we remotely collaborated on the arduino code. 
+We weren't able to interact with the hardware equipment in person which led to real limitations. We tackled this by using an SSH server to connect to the jetson nano and this allowed us to access the camera to test the object detection model. Furthermore we remotely collaborated on the arduino code.     
 Quick communication was also one of the challenges as we had to reboot the server a couple of times so we were always active on discord and ensured we rebooted the server when no-one was in the midst of coding.  
 
 ## Accomplishments that we're proud of
