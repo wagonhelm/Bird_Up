@@ -78,7 +78,14 @@ We are planning on adding more predator and hazards classes to our model to make
 
 ## How to run:
 
-
+- Setup arduino as per pin diagram found on [link to board diagram]
+- Object Dection Image Stream: 
+   - pip3 install -r requirements.txt
+   - python3 ~/Bird_Up/yolo/live_yolo_opencv.py
+- ROS Image Stream:
+   - install ros melodic
+   - install tmuxinator
+   - tmuxinator start jetbot_stack -n jetbot_stack -p ~/Bird_Up/workspace/scripts/stack.yml
 
 
 
