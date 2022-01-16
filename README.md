@@ -15,7 +15,7 @@
 ## 📑 Project Details
 
 ## Inspiration
-People eat a lot of eggs, in fact, according to [statistics](https://www.statista.com/statistics/183678/per-capita-consumption-of-eggs-in-the-us-since-2000/) in 2019, consumption of eggs in the United States was estimated at 293.6$ per person. Thus on average, a person spends about 411$ per year on eggs as the [average price](https://www.statista.com/statistics/183678/per-capita-consumption-of-eggs-in-the-us-since-2000/) was 1.4$ in 2019.   
+People eat a lot of eggs, in fact, according to [statistics](https://www.statista.com/statistics/183678/per-capita-consumption-of-eggs-in-the-us-since-2000/) in 2019, consumption of eggs in the United States was estimated at 293.6 eggs per person. Thus on average, a person spends about 411$ per year on eggs as the [average price](https://www.statista.com/statistics/183678/per-capita-consumption-of-eggs-in-the-us-since-2000/) was 1.4$ in 2019.   
    
 Due to inflation, many may choose to raise their own chickens. However, that requires commitment, we aim to help automate this process.
 
@@ -35,6 +35,8 @@ https://youtu.be/259Wf4aDriA
 Chickens are often prone to predators but using machine learning we can detect exactly where a predator is and fire our patented predator cannon to keep predators away.
 
 https://youtu.be/r203pE_IT9w 
+
+[Arduino](https://github.com/wagonhelm/Bird_Up/blob/main/arduino.png)   
 
 ## How we built it
 We built a basic structure prototype using Lego Mindstorms and electrical tape to hold things together.  
